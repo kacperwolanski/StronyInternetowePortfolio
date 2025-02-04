@@ -6,7 +6,7 @@ interface Props {
 }
 const SectionSeparator = ({ title, subTitle }: Props) => {
   return (
-    <div className="w-full items-center justify-center flex flex-col pt-20">
+    <div className="w-full items-center justify-center flex flex-col pt-10">
       <p className="text-sm px-5 py-1 bg-gray-200 rounded-2xl text-second">
         {title}
       </p>

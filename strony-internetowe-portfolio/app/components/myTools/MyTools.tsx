@@ -6,13 +6,13 @@ import { myToolsList } from "./myToolsList";
 
 const MyTools = () => {
   return (
-    <BackgroundWrapper backgroundColor="second">
+    <BackgroundWrapper backgroundColor="first">
       <div>
         <SectionSeparator
           title="Technologie"
           subTitle="Narzędzia i technoligie, które wykorzystuję w pracy"
         />
-        <div>
+        <div className=" flex gap-20 flex-wrap items-center justify-center">
           {myToolsList.map((tool: Tool) => (
             <Tool tool={tool} key={tool.title} />
           ))}
