@@ -3,31 +3,30 @@
 @tailwind utilities;
 
 :root {
-  --background: #f2f0ef;
-  --foreground: #66615e;
-}
-
-.dark {
-  --background: #0a0a0a;
-  --foreground: #ededed;
+  --firstBackgroundColor: #f2f0ef;
+  --secondBackgroundColor: #f9fafb;
+  --firstFontColor: #66615e;
+  --secondFontColor: #4b5563;
 }
 
 body {
   color: var(--foreground);
-  background: var(--background);
+  background: var(--secondBackgroundColor);
   font-family: Arial, Helvetica, sans-serif;
-  padding: 20px;
 }
 
-.sectionHeader {
-  display: flex;
-  font-family: var(--font-inter), sans-serif;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  text-align: center;
-  font-size: 50px;
-  z-index: 10;
-  font-weight: 900;
-  letter-spacing: -1px;
+.text-first {
+  color: var(--firstFontColor);
+}
+
+.text-second {
+  color: var(--secondFontColor);
+}
+
+.bg-first {
+  background: var(--firstBackgroundColor);
+}
+
+.bg-second {
+  background: var(--secondBackgroundColor);
 }
