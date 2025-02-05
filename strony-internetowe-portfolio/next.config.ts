@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
     });
     return config;
   },
+  images: {
+    domains: ["github.com"],
+  },
 };
 
 export default nextConfig;
