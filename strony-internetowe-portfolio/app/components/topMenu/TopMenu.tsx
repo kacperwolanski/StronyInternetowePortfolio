@@ -7,7 +7,7 @@ import ThemeSwitcher from "@/app/shared/components/ThemeSwitcher";
 
 const TopMenu = () => {
   return (
-    <div className="flex justify-between px-20 pb-[50] pt-5 bg-first text-first">
+    <div className="flex justify-between px-40 pb-[50] pt-5 bg-first text-first">
       <div className="text-second">
         <LogoComponent />
       </div>

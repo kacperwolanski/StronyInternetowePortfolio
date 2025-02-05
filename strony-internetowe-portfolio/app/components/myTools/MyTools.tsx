@@ -2,7 +2,7 @@ import BackgroundWrapper from "@/app/shared/components/BackgroundWrapper";
 import SectionSeparator from "@/app/shared/components/SectionSeparator";
 import React from "react";
 import Tool from "./Tool";
-import { myToolsList } from "@/app/mappersData/myToolsList";
+import { myToolsList } from "@/app/shared/mappersData/myToolsList";
 
 const MyTools = () => {
   return (
