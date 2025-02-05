@@ -23,6 +23,9 @@ const AboutMe = () => {
             online oraz aplikację carpoolingową{" "}
             <span className="font-semibold">TurmsRide</span>.
           </p>
+          <button className="border border-[#b6aea9] text-[#66615E] rounded-xl px-12 py-2 transition-colors duration-200 hover:bg-gray-200 mt-5">
+            Portfolio
+          </button>
         </div>
       </div>
     </BackgroundWrapper>
