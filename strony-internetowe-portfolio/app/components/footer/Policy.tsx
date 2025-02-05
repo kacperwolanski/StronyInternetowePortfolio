@@ -2,7 +2,7 @@ import React from "react";
 
 const Policy = () => {
   return (
-    <div className="w-full bg-first py-5 text-second">
+    <div className="w-full bg-first py-5 text-second font-[Inter] font-light">
       <aside>
         <p>
           Copyright © {new Date().getFullYear()} - All right reserved by ACME
