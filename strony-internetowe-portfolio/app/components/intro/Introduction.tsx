@@ -6,9 +6,9 @@ import BackgroundWrapper from "@/app/shared/components/BackgroundWrapper";
 const Introduction = () => {
   return (
     <BackgroundWrapper backgroundColor="first">
-      <div className="flex text-first">
+      <div className="flex text-first justify-between">
         <IntroText />
-        <div className="w-full flex justify-center ">
+        <div className="flex justify-center ">
           <ProfileImage />
         </div>
       </div>

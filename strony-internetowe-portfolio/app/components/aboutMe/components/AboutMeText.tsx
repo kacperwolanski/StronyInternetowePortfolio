@@ -3,9 +3,11 @@ import PortfolioLink from "./PortfolioLink";
 
 const AboutMeText = () => {
   return (
-    <div className="text-first">
-      <header className="font-semibold text-4xl mb-5">Czym się zajmuję?</header>
-      <p className="font-light">
+    <div className="text-first text-justify justify-start">
+      <header className="font-semibold text-4xl mb-5 ">
+        Czym się zajmuję?
+      </header>
+      <p className="font-light max-w-3xl">
         Od <span className="font-semibold">3 lat</span> zajmuję się tworzeniem
         stron internetowych i aplikacji webowych, pracując zarówno nad prostymi
         stronami firmowymi, jak i bardziej zaawansowanymi platformami.
