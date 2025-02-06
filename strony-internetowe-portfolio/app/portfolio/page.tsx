@@ -1,8 +1,9 @@
+import { servicePath } from "../appContacts";
 import BackgroundWrapper from "../shared/components/BackgroundWrapper";
+import HeaderButtonLink from "../shared/components/HeaderButtonLink";
 import SectionSeparator from "../shared/components/SectionSeparator";
 import { projects } from "../shared/mappersData/projects";
 import SingleProject from "./components/SingleProject";
-import WspolpracaLink from "./components/WspolpracaLink";
 
 export default function Portfolio() {
   return (
@@ -18,7 +19,13 @@ export default function Portfolio() {
             <SingleProject key={proj.title} project={proj} />
           ))}
         </div>
-        <WspolpracaLink />
+        <HeaderButtonLink
+          title=" Podoba Ci się moja praca?"
+          subtitle=" Zbudujmy razem coś, co wyróżni Cię w sieci. Sprawdź, jak wygląda
+          współpraca ze mną"
+          buttonTitle="Współpraca"
+          href={servicePath}
+        />
       </div>
     </BackgroundWrapper>
   );
