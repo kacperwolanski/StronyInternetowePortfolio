@@ -6,11 +6,9 @@ import { MacBookCode } from "@/app/shared/assets/otherIcons";
 const AboutMe = () => {
   return (
     <BackgroundWrapper backgroundColor="second">
-      <div>
-        <div className="flex items-center justify-center">
-          <AboutMeText />
-          <MacBookCode />
-        </div>
+      <div className="flex items-center justify-between ">
+        <MacBookCode />
+        <AboutMeText />
       </div>
     </BackgroundWrapper>
   );

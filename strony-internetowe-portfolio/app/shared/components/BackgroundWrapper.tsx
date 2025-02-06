@@ -10,7 +10,10 @@ const BackgroundWrapper = ({ children, backgroundColor }: Props) => {
       ? "var(--firstBackgroundColor)"
       : "var(--secondBackgroundColor)";
   return (
-    <div className="px-40  py-20 w-95" style={{ background: bgColor }}>
+    <div
+      className=" rounded-xl px-40 py-10 w-95"
+      style={{ background: bgColor }}
+    >
       {children}
     </div>
   );

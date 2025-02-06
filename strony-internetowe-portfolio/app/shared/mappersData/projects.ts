@@ -1,14 +1,6 @@
-import { Project } from "../portfolio/types";
+import { Project } from "@/app/portfolio/types";
 
 export const projects: Project[] = [
-  {
-    desktopImage:
-      "https://github.com/user-attachments/assets/7189d90b-7ed5-47d2-afa3-735142620701",
-    title: "Aplikacja internetowa TurmsRide",
-    description:
-      "Carpoolingowa aplikacja webowa, obecnie obsługująca około 100 użytkowników. Serwis oferuje możliwość wzajemnego łączenia kierowców i pasażerów oraz redukcję kosztów podróży poprzez wspólne przejazdy samochodem. Aplikacja została wykonana na zlecenie firmy TurmsRide.",
-    linkToProject: "https://turmsride.com",
-  },
   {
     desktopImage:
       "https://github.com/user-attachments/assets/3a17bf28-2cdb-49e2-aa59-ab5a115dfd34",
@@ -17,6 +9,15 @@ export const projects: Project[] = [
       "Aplikacja internetowa przeznaczona do oglądania treści telewizyjnych online. Pracowałem nad nią jako React Developer podczas pracy w Codespot w latach 2023/2024. Aplikacja oferuje funkcjonalności takie jak odtwarzanie programów TV na żywo, dostęp do treści VOD na żądanie oraz przewodnik po programach.",
     linkToProject: "https://www.dottv.app/demo",
   },
+  {
+    desktopImage:
+      "https://github.com/user-attachments/assets/7189d90b-7ed5-47d2-afa3-735142620701",
+    title: "Aplikacja internetowa TurmsRide",
+    description:
+      "Carpoolingowa aplikacja webowa, obecnie obsługująca około 100 użytkowników. Serwis oferuje możliwość wzajemnego łączenia kierowców i pasażerów oraz redukcję kosztów podróży poprzez wspólne przejazdy samochodem. Aplikacja została wykonana na zlecenie firmy TurmsRide.",
+    linkToProject: "https://turmsride.com",
+  },
+
   {
     desktopImage:
       "https://github.com/user-attachments/assets/5ecda78b-e796-462f-b3ca-f0932b6a5b25",
