@@ -1,4 +1,5 @@
-import GoogleMapComponent from "../components/GoogleMap";
+"use client";
+
 import {
   MailStrokeIcon,
   PhoneIcon,
@@ -12,7 +13,6 @@ export default function Contact() {
   return (
     <BackgroundWrapper backgroundColor="second">
       <div className="py-10 flex flex-col items-center">
-        <GoogleMapComponent />
         <ProfileImage />
         <SectionSeparator
           title="Kontakt"

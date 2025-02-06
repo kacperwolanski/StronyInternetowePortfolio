@@ -13,7 +13,7 @@ const SingleFeature = ({ feature }: Props) => {
   const { isIncluded, title } = feature;
   const icon = isIncluded ? <CheckIcon /> : <CircledCrossIcon />;
   const className = isIncluded
-    ? "text-first font-semibold"
+    ? "text-first font-normal"
     : "text-second font-light";
   return (
     <div className="flex gap-5 items-center text-lg">
