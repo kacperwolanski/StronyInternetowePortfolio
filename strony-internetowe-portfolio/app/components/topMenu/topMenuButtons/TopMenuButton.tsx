@@ -7,7 +7,10 @@ interface Props {
 }
 const TopMenuButton = ({ title, linkTo }: Props) => {
   return (
-    <Link className="flex items-center" href={linkTo}>
+    <Link
+      className="flex items-center hover:text-[var(--secondFontColor)] transition-all duration-300 "
+      href={linkTo}
+    >
       {title}
     </Link>
   );

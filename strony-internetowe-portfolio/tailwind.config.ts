@@ -9,6 +9,10 @@ export default {
   ],
   theme: {
     extend: {
+      screens: {
+        xxs: "320px",
+        xs: "480px",
+      },
       fontFamily: {
         inter: ["Inter", "sans-serif"],
       },
@@ -18,7 +22,7 @@ export default {
       },
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [require("daisyui"), require("tailwindcss-filters")],
   daisyui: {
     themes: ["light", "dark"],
   },
