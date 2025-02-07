@@ -22,10 +22,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={inter.variable}>
-      <body>
+    <html lang="en" className={`${inter.variable} h-full`}>
+      <body className="flex flex-col min-h-screen">
         <TopMenu />
-        {children}
+        <main className="flex-grow">{children}</main>
         <Footer />
       </body>
     </html>

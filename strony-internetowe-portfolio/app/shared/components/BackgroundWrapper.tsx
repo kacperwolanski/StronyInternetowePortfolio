@@ -1,3 +1,5 @@
+import { responsivePaddingX } from "@/app/appContacts";
+
 type BackgroundColor = "first" | "second";
 
 interface Props {
@@ -11,7 +13,7 @@ const BackgroundWrapper = ({ children, backgroundColor }: Props) => {
       : "var(--secondBackgroundColor)";
   return (
     <div
-      className=" rounded-xl px-40 py-10 w-95"
+      className={`rounded-xl py-10 w-95 ${responsivePaddingX}`}
       style={{ background: bgColor }}
     >
       {children}

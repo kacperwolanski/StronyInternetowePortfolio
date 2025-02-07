@@ -1,23 +1,13 @@
 import React from "react";
 import Policy from "./components/Policy";
-import {
-  FacebookIcon,
-  GithubIcon,
-  LinkedinIcon,
-  MailIcon,
-} from "@/app/shared/assets/contactSocialMedias";
 import Logo from "@/app/shared/assets/logo";
+import SocialMedias from "@/app/shared/components/SocialMedias";
 import {
   contactPath,
-  facebookUrl,
-  githubUrl,
-  gmailUrl,
   homePath,
-  linkedinUrl,
   portfolioPath,
   servicePath,
 } from "@/app/appContacts";
-import SocialMedium from "./components/SocialMedium";
 
 const Footer = () => {
   return (
@@ -40,20 +30,7 @@ const Footer = () => {
         </a>
       </nav>
       <nav>
-        <div className="grid grid-flow-col gap-6 mt-4">
-          <SocialMedium
-            icon={<LinkedinIcon />}
-            title="Linkedin"
-            href={linkedinUrl}
-          />
-          <SocialMedium icon={<MailIcon />} title="Gmail" href={gmailUrl} />
-          <SocialMedium icon={<GithubIcon />} title="Github" href={githubUrl} />
-          <SocialMedium
-            icon={<FacebookIcon />}
-            title="Facebook"
-            href={facebookUrl}
-          />
-        </div>
+        <SocialMedias />
       </nav>
       <Policy />
     </footer>

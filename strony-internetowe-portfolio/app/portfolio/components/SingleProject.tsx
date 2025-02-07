@@ -10,7 +10,7 @@ const SingleProject = ({ project }: Props) => {
   const { desktopImage, title, description, linkToProject } = project;
 
   return (
-    <div className="text-first font-[Inter] max-w-3xl flex flex-col justify-between">
+    <div className="z-10 text-first font-[Inter] max-w-3xl flex flex-col justify-between">
       <header className="font-semibold text-2xl mb-2 text-center">
         {title}
       </header>
