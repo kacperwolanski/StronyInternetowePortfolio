@@ -56,5 +56,16 @@ body {
 .animate-scroll {
   display: flex;
   white-space: nowrap;
-  animation: scroll 30s linear infinite;
+  animation: scroll 20s linear infinite;
+}
+
+/* shadows */
+
+.tools-side-shadow {
+  z-index: 10;
+  box-shadow: 0px 0px 50px 80px rgb(242, 240, 239, 1);
+}
+
+.bottom-shadowed {
+  box-shadow: 0px 0px 10px 1px rgb(0, 0, 0, 0.2);
 }

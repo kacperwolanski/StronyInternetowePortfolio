@@ -9,7 +9,7 @@ const ContactElement = ({ title, icon }: Props) => {
   return (
     <div className="flex items-center gap-5">
       {icon}
-      <p className="font-semibold text-3xl text-[#66615e]">{title}</p>
+      <p className="font-semibold text-xl text-[#66615e]">{title}</p>
       <CopyIcon />
     </div>
   );

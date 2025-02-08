@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
-
 import "./globals.css";
 import { Inter } from "next/font/google";
-import Footer from "./components/footer/Footer";
 import TopMenu from "./components/topMenu/TopMenu";
 
 const inter = Inter({
@@ -26,7 +24,6 @@ export default function RootLayout({
       <body className="flex flex-col min-h-screen">
         <TopMenu />
         <main className="flex-grow">{children}</main>
-        <Footer />
       </body>
     </html>
   );

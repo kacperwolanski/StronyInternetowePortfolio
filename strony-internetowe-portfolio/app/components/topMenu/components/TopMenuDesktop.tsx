@@ -17,7 +17,7 @@ const TopMenuDesktop = () => {
       <div
         className={`fixed top-0 left-0 w-full h-[80px] flex items-center justify-between 
                 backdrop-blur-2xl transition-transform duration-400 ease-in-out 
-             ${translation} ${responsivePaddingX}`}
+             ${translation} ${responsivePaddingX} bottom-shadowed`}
       >
         <div className="text-second">
           <LogoComponent />

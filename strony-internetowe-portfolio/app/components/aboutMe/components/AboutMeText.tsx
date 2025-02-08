@@ -4,7 +4,7 @@ import PortfolioLink from "./PortfolioLink";
 const AboutMeText = () => {
   return (
     <div className="text-first text-justify justify-start">
-      <header className="font-semibold text-4xl mb-5 ">
+      <header className="font-semibold text-4xl md:text-3xl lg:text-3xl xl:text-4xl mb-5 text-left">
         Czym się zajmuję?
       </header>
       <p className="font-light max-w-3xl">
