@@ -5,16 +5,22 @@ import Tool from "./Tool";
 import { myToolsList } from "@/app/shared/mappersData/myToolsList";
 
 const MyTools = () => {
+  const tripledList = [
+    ...myToolsList,
+    ...myToolsList,
+    ...myToolsList,
+    ...myToolsList,
+  ];
   return (
     <BackgroundWrapper backgroundColor="first">
-      <div>
+      <div className="px-100 overflow-hidden">
         <SectionSeparator
           title="Technologie"
           subTitle="Narzędzia i technoligie, które wykorzystuję w pracy"
         />
-        <div className=" flex gap-20 flex-wrap items-center justify-center">
-          {myToolsList.map((tool: Tool) => (
-            <Tool tool={tool} key={tool.title} />
+        <div className=" flex gap-20 items-center justify-center animate-scroll">
+          {tripledList.map((tool: Tool, index: number) => (
+            <Tool tool={tool} key={index} />
           ))}
         </div>
       </div>

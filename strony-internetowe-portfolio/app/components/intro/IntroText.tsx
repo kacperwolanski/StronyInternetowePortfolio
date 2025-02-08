@@ -5,7 +5,9 @@ import ProjectsReady from "./ProjectsReady";
 const IntroText = () => {
   return (
     <div className="font-[Inter] max-w-3xl">
-      <h1 className="text-6xl font-bold mt-10">Kacper Wolański</h1>
+      <h1 className="xs:text-3xl sm:text-4xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mt-10">
+        Kacper Wolański
+      </h1>
       <h2 className="text-2xl font-extralight mt-3">Strony Internetowe</h2>
       <p className="font-light mt-2">
         Cześć! Tworzę estetyczne strony i aplikacje, które pomagają firmom

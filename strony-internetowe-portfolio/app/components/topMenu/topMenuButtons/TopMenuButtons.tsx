@@ -1,6 +1,7 @@
 import React from "react";
 import TopMenuButton from "./TopMenuButton";
-import { homePath, portfolioPath, servicePath } from "@/app/appContacts";
+import { sectionIds } from "@/app/appContacts";
+
 interface Props {
   inCol?: boolean;
 }
@@ -11,9 +12,9 @@ const TopMenuButtons = ({ inCol }: Props) => {
         inCol && "flex-col"
       }`}
     >
-      <TopMenuButton title="Home" linkTo={homePath} />
-      <TopMenuButton title="Portfolio" linkTo={portfolioPath} />
-      <TopMenuButton title="Współpraca" linkTo={servicePath} />
+      <TopMenuButton title="Home" linkTo={sectionIds.home} />
+      <TopMenuButton title="Portfolio" linkTo={sectionIds.portfolio} />
+      <TopMenuButton title="Współpraca" linkTo={sectionIds.service} />
     </div>
   );
 };

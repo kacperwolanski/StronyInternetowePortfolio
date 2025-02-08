@@ -2,12 +2,6 @@ import React from "react";
 import Policy from "./components/Policy";
 import Logo from "@/app/shared/assets/logo";
 import SocialMedias from "@/app/shared/components/SocialMedias";
-import {
-  contactPath,
-  homePath,
-  portfolioPath,
-  servicePath,
-} from "@/app/appContacts";
 
 const Footer = () => {
   return (
@@ -16,18 +10,10 @@ const Footer = () => {
         <Logo />
       </div>
       <nav className="grid grid-flow-col gap-4 ">
-        <a className="link link-hover" href={homePath}>
-          Home
-        </a>
-        <a className="link link-hover" href={portfolioPath}>
-          Portfolio
-        </a>
-        <a className="link link-hover" href={contactPath}>
-          Kontakt
-        </a>
-        <a className="link link-hover" href={servicePath}>
-          Współpraca
-        </a>
+        <button className="link link-hover">Home</button>
+        <button className="link link-hover">Portfolio</button>
+        <button className="link link-hover">Kontakt</button>
+        <button className="link link-hover">Współpraca</button>
       </nav>
       <nav>
         <SocialMedias />
