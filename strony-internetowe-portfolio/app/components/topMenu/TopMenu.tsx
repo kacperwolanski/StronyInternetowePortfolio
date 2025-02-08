@@ -8,7 +8,7 @@ import TopMenuDesktop from "./components/TopMenuDesktop";
 const TopMenu = () => {
   const isMobileDevice = useIsMobileDevice();
   return (
-    <div className="z-30">
+    <div className="z-30 ">
       {isMobileDevice ? <TopMenuMobile /> : <TopMenuDesktop />}
     </div>
   );

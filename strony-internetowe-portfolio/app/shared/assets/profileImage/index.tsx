@@ -6,8 +6,6 @@ const ProfileImage = () => (
     <Image
       src={ProfileImageFile}
       alt="ProfileImage"
-      width={260}
-      height={260}
       className="object-cover w-full h-full"
     />
   </div>

@@ -6,7 +6,7 @@ export const facebookUrl =
 export const gmailUrl = "mailto:wolanski055@gmail.com";
 
 // layout
-export const responsivePaddingX = "px-5 md:px-10 lg:px-20 xl:px-40";
+export const responsivePaddingX = "px-8 md:px-10 lg:px-20 xl:px-40";
 export const mobileDeviceBreakpointPx = 640;
 
 // sections ids
