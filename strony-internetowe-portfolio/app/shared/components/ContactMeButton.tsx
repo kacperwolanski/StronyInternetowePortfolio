@@ -1,12 +1,16 @@
-import { contactPath } from "@/app/appContacts";
-import Link from "next/link";
+"use client";
+import { sectionIds } from "@/app/appContacts";
+import { scrollToSection } from "@/app/helpers/scrollToSection";
 import React from "react";
 
 const ContactMeButton = () => {
+  const handleClick = () => {
+    scrollToSection(sectionIds.contact);
+  };
   return (
-    <Link href={contactPath}>
-      <button className="btn btn-neutral">Kontakt</button>
-    </Link>
+    <button onClick={handleClick} className="btn btn-neutral">
+      Kontakt
+    </button>
   );
 };
 

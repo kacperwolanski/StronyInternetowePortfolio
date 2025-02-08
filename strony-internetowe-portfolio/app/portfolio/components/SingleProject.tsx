@@ -10,7 +10,7 @@ const SingleProject = ({ project }: Props) => {
   const { desktopImage, title, description, linkToProject } = project;
 
   return (
-    <div className="z-10 text-first font-[Inter] max-w-3xl flex flex-col justify-between">
+    <div className="z-10 text-first font-[Inter] max-w-xl flex flex-col justify-between">
       <header className="font-semibold text-2xl mb-2 text-center">
         {title}
       </header>
@@ -29,7 +29,7 @@ const SingleProject = ({ project }: Props) => {
                 {linkToProject}
               </div>
             </div>
-            <div className="bg-second relative w-full min-h-[500px]">
+            <div className="bg-second relative w-full min-h-[400px]">
               <Image
                 src={desktopImage}
                 alt="desktop image"

@@ -1,4 +1,6 @@
-import Link from "next/link";
+"use client";
+
+import { scrollToSection } from "@/app/helpers/scrollToSection";
 import React from "react";
 
 interface Props {
@@ -6,13 +8,16 @@ interface Props {
   linkTo: string;
 }
 const TopMenuButton = ({ title, linkTo }: Props) => {
+  const handleClick = () => {
+    scrollToSection(linkTo);
+  };
   return (
-    <Link
+    <button
+      onClick={handleClick}
       className="flex items-center hover:text-[var(--secondFontColor)] transition-all duration-300 "
-      href={linkTo}
     >
       {title}
-    </Link>
+    </button>
   );
 };
 

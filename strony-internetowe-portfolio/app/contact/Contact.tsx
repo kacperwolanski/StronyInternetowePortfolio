@@ -1,5 +1,6 @@
 "use client";
 
+import { sectionIds } from "../appContacts";
 import {
   MailStrokeIcon,
   PhoneIcon,
@@ -12,7 +13,7 @@ import ContactElement from "./components/ContactElement";
 export default function Contact() {
   return (
     <BackgroundWrapper backgroundColor="second">
-      <div className="py-10 flex flex-col items-center">
+      <div id={sectionIds.contact} className="py-10 flex flex-col items-center">
         <ProfileImage />
         <SectionSeparator
           title="Kontakt"
