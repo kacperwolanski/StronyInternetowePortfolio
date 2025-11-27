@@ -1,4 +1,4 @@
-# StronyInternetowePortfolio
+# binForImages 
 
 
 <img width="706" alt="image" src="https://github.com/user-attachments/assets/e2ee3ebb-6bf6-4418-84eb-a14a08d5c0df" />
