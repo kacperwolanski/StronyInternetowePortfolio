@@ -18,7 +18,7 @@
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/76bf9a44-091d-43b3-949d-680163710f7e)
 
-[Zobacz video](https://github.com/user-attachments/assets/34f498ac-1c40-453a-9920-8f64893e8e55)
+
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/d4370f16-9f12-468b-a1b9-72a8e55b4f23)
 
