@@ -20,7 +20,10 @@
 
 
 
-[Zobacz obrazek](https://github.com/user-attachments/assets/d4370f16-9f12-468b-a1b9-72a8e55b4f23)
+[Zobacz obrazek](https://github.com/user-attachments/assets/d4370f16-9f12-468b-a1b9-72a8e55b4f23)!
+[LoginSignet](https://github.com/user-attachments/assets/d7048b9a-1603-4069-b3d0-4a090683ac09)
+<img width="498" height="501" alt="LoginSignet" src="https://github.com/user-attachments/assets/0b3ded04-fe30-4327-9d02-e4639d6bcfe5" />
+
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/9f124d91-b6b1-4bb1-a57f-987e776135db)
 
@@ -33,3 +36,4 @@
 [Zobacz obrazek](https://github.com/user-attachments/assets/51c75a9f-4416-4158-9462-da71eb3c2a27)
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/3245b0b9-ccf0-4862-8633-9b8603f93979)
+
