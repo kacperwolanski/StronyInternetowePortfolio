@@ -37,3 +37,7 @@
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/3245b0b9-ccf0-4862-8633-9b8603f93979)
 
+![frame-firefly 1](https://github.com/user-attachments/assets/5fb6e231-e362-4f88-b0d6-b3209f68df79)
+
+![frame-firefly 1 (2)](https://github.com/user-attachments/assets/565beae4-4c5b-45e0-a594-e8d05297a866)
+![frame-firefly 1 (1)](https://github.com/user-attachments/assets/486bda05-8f89-4207-8d8c-427e19094a45)
