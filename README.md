@@ -35,12 +35,12 @@
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/51c75a9f-4416-4158-9462-da71eb3c2a27)
 
-[Zobacz obrazek](https://github.com/user-attachments/assets/3245b0b9-ccf0-4862-8633-9b8603f93979)
 
-![frame-firefly 1](https://github.com/user-attachments/assets/5fb6e231-e362-4f88-b0d6-b3209f68df79)
+......
 
-![frame-firefly 1 (2)](https://github.com/user-attachments/assets/565beae4-4c5b-45e0-a594-e8d05297a866)
 
-<img width="310" height="252" alt="frame-firefly 1 (3)" src="https://github.com/user-attachments/assets/a93066cc-ff78-43f0-8bb7-2ffb923fb6f9" />
+![Screenshot 2026-01-28 at 22 57 04](https://github.com/user-attachments/assets/cdc4be9d-b9a9-45bb-827a-0c8f2416a745)
+![Screenshot 2026-01-28 at 22 56 42](https://github.com/user-attachments/assets/5e25b3bc-57ae-44c3-b7d0-efc4f593e983)
+![Screenshot 2026-01-28 at 22 56 22](https://github.com/user-attachments/assets/f7d724a6-946e-4b14-b8cd-432c6daf142a)
 
-![frame-firefly 1 (1)](https://github.com/user-attachments/assets/486bda05-8f89-4207-8d8c-427e19094a45)
+
