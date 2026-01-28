@@ -40,4 +40,7 @@
 ![frame-firefly 1](https://github.com/user-attachments/assets/5fb6e231-e362-4f88-b0d6-b3209f68df79)
 
 ![frame-firefly 1 (2)](https://github.com/user-attachments/assets/565beae4-4c5b-45e0-a594-e8d05297a866)
+
+<img width="310" height="252" alt="frame-firefly 1 (3)" src="https://github.com/user-attachments/assets/a93066cc-ff78-43f0-8bb7-2ffb923fb6f9" />
+
 ![frame-firefly 1 (1)](https://github.com/user-attachments/assets/486bda05-8f89-4207-8d8c-427e19094a45)
