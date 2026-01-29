@@ -42,7 +42,9 @@
 <img width="948" height="726" alt="Screenshot 2026-01-29 at 14 25 22" src="https://github.com/user-attachments/assets/dbcbc517-c1b1-4bfc-9616-81c4cfd6b87d" />
 
 
+<img width="948" height="726" alt="Screenshot 2026-01-29 at 14 27 52" src="https://github.com/user-attachments/assets/22847cc7-1dba-435d-a336-663bd418b13d" />
 
+<img width="948" height="726" alt="Screenshot 2026-01-29 at 14 29 09" src="https://github.com/user-attachments/assets/ea3a5321-dfb1-4aea-8d20-3d47162c5bda" />
 
 
 
