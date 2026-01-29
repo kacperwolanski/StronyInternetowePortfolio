@@ -35,15 +35,12 @@
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/51c75a9f-4416-4158-9462-da71eb3c2a27)
 
-<img width="229" height="179" alt="frame-404" src="https://github.com/user-attachments/assets/1ed9415e-1c36-45db-bcc8-2dc60633bb03" />
+
 
 ......
 
+<img width="948" height="726" alt="Screenshot 2026-01-29 at 14 25 22" src="https://github.com/user-attachments/assets/dbcbc517-c1b1-4bfc-9616-81c4cfd6b87d" />
 
-
-<img width="228" height="178" alt="frame-nopic" src="https://github.com/user-attachments/assets/5a5fec7f-eb16-4a8a-9695-3bc5d24f3da7" />
-<img width="240" height="176" alt="frame-error" src="https://github.com/user-attachments/assets/4f9fb962-c271-4839-8d50-dbea737ea0b9" />
-<img width="237" height="172" alt="frame-error (1)" src="https://github.com/user-attachments/assets/9e0449e0-5b69-4eed-840c-652adb71db7f" />
 
 
 
