@@ -35,6 +35,7 @@
 
 [Zobacz obrazek](https://github.com/user-attachments/assets/51c75a9f-4416-4158-9462-da71eb3c2a27)
 
+<img width="229" height="179" alt="frame-404" src="https://github.com/user-attachments/assets/1ed9415e-1c36-45db-bcc8-2dc60633bb03" />
 
 ......
 
